@@ -2,12 +2,12 @@
 
 1. git clone the repo
 2. cd into the project
-3. install compser dependencies
+3. install composer dependencies
 
 `composer install`
 
 ## Database
-1. create and empty database
+1. create an empty database
 2. setup your config DB_DATABASE, DB_USERNAME, DB_PASSWORD
 3. migrate the database with
 
